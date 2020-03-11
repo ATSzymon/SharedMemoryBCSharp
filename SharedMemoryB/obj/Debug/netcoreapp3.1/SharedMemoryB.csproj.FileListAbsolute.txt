@@ -1,0 +1,11 @@
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\bin\Debug\netcoreapp3.1\SharedMemoryB.exe
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\bin\Debug\netcoreapp3.1\SharedMemoryB.deps.json
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\bin\Debug\netcoreapp3.1\SharedMemoryB.runtimeconfig.json
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\bin\Debug\netcoreapp3.1\SharedMemoryB.runtimeconfig.dev.json
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\bin\Debug\netcoreapp3.1\SharedMemoryB.dll
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\bin\Debug\netcoreapp3.1\SharedMemoryB.pdb
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\obj\Debug\netcoreapp3.1\SharedMemoryB.csprojAssemblyReference.cache
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\obj\Debug\netcoreapp3.1\SharedMemoryB.AssemblyInfoInputs.cache
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\obj\Debug\netcoreapp3.1\SharedMemoryB.AssemblyInfo.cs
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\obj\Debug\netcoreapp3.1\SharedMemoryB.dll
+C:\Users\SzymonJ\source\tests\SharedMemoryB\SharedMemoryB\obj\Debug\netcoreapp3.1\SharedMemoryB.pdb
